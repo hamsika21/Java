@@ -1,3 +1,9 @@
+/*
+ * This program defines a class A to represent a triangle and calculates its area.
+ * The class includes methods to compute the semi-perimeter, check if the given sides form a valid triangle,
+ * and calculate the area if the triangle is valid.
+*/
+
 class A {
     // Instance variables to hold the sides of the triangle
     int a, b, c;
